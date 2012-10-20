@@ -11,6 +11,8 @@ group :assets do
   gem 'jquery-rails'
 end
 
+gem 'omniauth-github'
+
 group :development, :test do
   gem 'rspec-rails'
 end
